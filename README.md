@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Denis</h1>
+<h1 align="center">Hi there 👋, I'm Denis</h1>
 <h2 align="center">A passionate backend developer from Russia</h2>
 
 - 🔭 I'm currently working on **Yandex Cloud Interconnect**
