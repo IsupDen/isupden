@@ -55,4 +55,4 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isupden&layout=compact&hide=html,css,scss&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isupden&layout=compact&hide=html,css,scss&theme=transparent)
