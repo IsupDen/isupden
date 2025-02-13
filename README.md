@@ -38,6 +38,12 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
+  <a href="https://t.me/iissu_s" target="blank">
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/icon-finder-91d39.appspot.com/o/icons%2Fbrand%2Ftelegram.svg?alt=media&token=e5e5c305-0497-43a6-813e-50310c6bed70" alt="@iissu_s" height="30" width="40" />
+  </a>
+  <a href="isupden@yandex.ru" target="blank">
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/icon-finder-91d39.appspot.com/o/icons%2Fbrand%2Fgmail.svg?alt=media&token=05b0af66-de83-48a0-a053-27b25c2f4074" alt="isupden@yandex.ru" height="30" width="40" />
+  </a>
   <a href="https://twitter.com/isuusse" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@isuusse" height="30" width="40" />
   </a>
